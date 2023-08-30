@@ -1,4 +1,4 @@
-##**_ModaMania_**
+**_MODAMANIA_**
 
 **Description:** The Online Clothing Store project is a modern and user-friendly e-commerce website built using the React JavaScript library, the Strapi headless CMS (Content Management System), and the Stripe payment gateway. The project aims to provide a seamless shopping experience for customers, easy product management for administrators, and secure payment processing for successful transactions.
 
